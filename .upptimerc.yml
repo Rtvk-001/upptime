@@ -17,10 +17,8 @@ sites:
     url: https://memos.nandaka.site
     
 status-website:
-  # This must match your Cloudflare 'Name' + your domain
   cname: status.nandaka.site
   
-  # BaseUrl is not needed when using a custom domain
   # baseUrl: /upptime
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -33,5 +31,3 @@ status-website:
     - title: GitHub
       href: https://github.com/Rtvk-001/upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
