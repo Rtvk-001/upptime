@@ -31,3 +31,9 @@ status-website:
     - title: GitHub
       href: https://github.com/Rtvk-001/upptime
 
+  workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "0 * * * *"
+  graphs: "0 0 * * *"
+  staticSite: "0 * * * *"
+  summary: "0 0 * * *"
